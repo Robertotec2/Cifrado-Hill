@@ -45,3 +45,4 @@ Tomas el mensaje de dos en dos (si tu matriz es 2×2).
 Multiplicas la matriz por cada par de números.
 
 Al resultado le aplicas módulo 26 (para que vuelva a ser una letra).
+XSLWIOXMRGDYJQ
