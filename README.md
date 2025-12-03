@@ -19,3 +19,29 @@ Esta tarea tiene como objetivo evaluar sus habilidades de programación, gestió
    cd backend
    mvn clean package
    java -jar target/tu-app.jar
+
+
+
+
+   Cómo funciona:
+
+Eliges una matriz clave, por ejemplo:
+
+3	3
+2	5
+
+Convierte cada letra a número:
+
+A = 0
+
+B = 1
+
+…
+
+Z = 25
+
+Tomas el mensaje de dos en dos (si tu matriz es 2×2).
+
+Multiplicas la matriz por cada par de números.
+
+Al resultado le aplicas módulo 26 (para que vuelva a ser una letra).
